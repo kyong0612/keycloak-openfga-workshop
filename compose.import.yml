@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   openfga-import:
     depends_on: 
